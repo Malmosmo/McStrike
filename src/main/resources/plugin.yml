@@ -1,0 +1,6 @@
+name: McStrike
+version: '${project.version}'
+main: com.mcstrike.mcstrike.McStrike
+api-version: 1.18
+authors: [ Malmosmo ]
+description: A plugin to replicate the famous mcstrike server
