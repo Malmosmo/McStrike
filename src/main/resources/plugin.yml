@@ -4,3 +4,9 @@ main: com.mcstrike.mcstrike.McStrike
 api-version: 1.18
 authors: [ Malmosmo ]
 description: A plugin to replicate the famous mcstrike server
+commands:
+  afk:
+    description: sets you afk
+    usage: /<command>
+  class:
+    description: select a class
